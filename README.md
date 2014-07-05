@@ -13,7 +13,7 @@ A PhpUnit result printer
 
 ## Installation
 
-composer global require "kujira/phpunit-printer:1.0.0"
+composer global require "kujira/phpunit-printer:1.0.1"
 
 ## Configuration
 
